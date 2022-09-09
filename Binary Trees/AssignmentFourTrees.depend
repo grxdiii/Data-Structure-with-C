@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1658600045 source:c:\users\gradi\onedrive\desktop\cop 3223\assignmentfourtrees\leak_detector_c.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"leak_detector_c.h"
+
+1658600045 c:\users\gradi\onedrive\desktop\cop 3223\assignmentfourtrees\leak_detector_c.h
+
+1658855413 source:c:\users\gradi\onedrive\desktop\cop 3223\assignmentfourtrees\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1658600290 c:\users\gradi\onedrive\desktop\cop 3223\assignmentfourtrees\cop3502_as1.h
+
